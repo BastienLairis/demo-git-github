@@ -6,7 +6,7 @@ export default function Header() {
         padding: "20px",
       }}
     >
-      My Header
+      My Header / updated on branch master
     </header>
   );
 }
