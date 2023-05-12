@@ -6,7 +6,7 @@ export default function Header() {
         padding: "20px",
       }}
     >
-      My Header
+      My Header / Update header on bastien-front branch
     </header>
   );
 }
