@@ -8,7 +8,7 @@ function App() {
   return (
     <div>
       <Header />
-      <h1>Hello Demo GIT GITHUB</h1>
+      <h1>Hello Demo GIT GITHUB </h1>
     </div>
   );
 }
