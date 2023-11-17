@@ -3,6 +3,7 @@ import "./App.css";
 import Header from "./components/Header";
 
 console.log("Hello");
+console.log("Hello");
 
 function App() {
   return (
