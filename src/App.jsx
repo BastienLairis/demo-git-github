@@ -1,5 +1,7 @@
 import "./App.css";
 
+console.log("Hello");
+
 function App() {
   return (
     <div>
